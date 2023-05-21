@@ -31,3 +31,24 @@ Youtube Video:
 
 [Install Nvidia Driver Ubuntu 20.04 | Linux | Complete Installation & Setup | 100% Working](https://www.youtube.com/watch?v=FAknvXs4M1w)
 
+
+# 3.- Install WIFI drivers.
+
+1.-Download the following files:
+
+[https://github.com/morrownr/88x2bu-20210702]([https://www.youtube.com/watch?v=FAknvXs4M1w](https://github.com/morrownr/88x2bu-20210702))
+
+2.-Unzip the folder *88x2bu-20210702-main*
+
+3.-Go inside the folder *88x2bu-20210702-main* and open terminal
+
+4.- run: *sudo make*
+
+5.-run: *sudo make install*
+
+6.-Insert wifi dongle.
+
+
+
+
+
