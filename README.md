@@ -34,17 +34,17 @@ Youtube Video:
 
 # 3.- Install WIFI drivers.
 
-1.-Download the following files:
+1.-Download zip files:
 
 [https://github.com/morrownr/88x2bu-20210702](https://github.com/morrownr/88x2bu-20210702)
 
-2.-Unzip the folder *88x2bu-20210702-main*
+2.-Go to downloads and unzip the folder *88x2bu-20210702-main*
 
 3.-Go inside the folder *88x2bu-20210702-main* and open terminal
 
-4.- run: *sudo make*
+4.- type in terminal: *sudo make*
 
-5.-run: *sudo make install*
+5.-type in terminal: *sudo make install*
 
 6.-Insert wifi dongle.
 
