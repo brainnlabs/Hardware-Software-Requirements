@@ -36,7 +36,7 @@ Youtube Video:
 
 1.-Download the following files:
 
- [https://github.com/morrownr/88x2bu-20210702]([https://www.youtube.com/watch?v=FAknvXs4M1w](https://github.com/morrownr/88x2bu-20210702))
+[https://www.youtube.com/watch?v=FAknvXs4M1w](https://github.com/morrownr/88x2bu-20210702))
 
 2.-Unzip the folder *88x2bu-20210702-main*
 
