@@ -31,6 +31,11 @@ Youtube Video:
 
 [Install Nvidia Driver Ubuntu 20.04 | Linux | Complete Installation & Setup | 100% Working](https://www.youtube.com/watch?v=FAknvXs4M1w)
 
+Make sure to update first:
+sudo apt update
+sudo apt upgrade
+
+
 
 # 3.- Install WIFI drivers.
 
